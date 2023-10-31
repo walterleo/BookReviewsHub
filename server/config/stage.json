@@ -1,0 +1,24 @@
+{
+    "DB_URL": "mongodb+srv://walterleo:l8QKlldZhH7TAd4R@cluster0.ifuk3.mongodb.net/books_app",
+  
+    "PORT": 6000,
+    "URL": "",
+  
+    "SECRET_KEYS": {
+      "JWT": "CS.CODE.IN",
+      "CRYPTO": "CS21.CODE.IN"
+    },
+    "EMAIL_SMTP" : {
+      "HOST" : "cpl12.main-hosting.eu",
+      "AUTH" : {
+        "USER" : "ishaan@suhail.link",
+        "PASS" : "Ishaan123"
+      }
+    },
+    "SEND_SMS": {
+      "TWILIO_SID": "ACe7287413946646ce1cdfb6a8c72ce50a",
+      "TWILIO_TOKEN": "7cb02a5832830a1b3c61190411c64292",
+      "TWILIO_NUMBER": "+12518423615"
+  }
+  }
+  
